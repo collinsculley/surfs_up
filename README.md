@@ -1,6 +1,4 @@
 # surfs_up
-Module9 - sqlLite, Jupyter, Python3.8, Flask
+Extended work with SQLite to explore weather data in Hawaii for a potential new business.
 
-
-**Classwork:**  climate_analysis.ipynb /
-**Challenge:**  climate_analysis_Challenge.ipynb
+**JupyterNotebook:**  climate_analysis_Challenge.ipynb
